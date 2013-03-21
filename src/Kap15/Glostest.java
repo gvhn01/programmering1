@@ -24,7 +24,7 @@ public class Glostest {
             System.out.println("");
             System.out.println("1. Skapa gloslistan");
             System.out.println("2. Visa gloslista");
-            System.out.println("3. Lägg till en glosa");
+            System.out.println("3. Lägg till en ny glosa");
             System.out.println("4. Glostest");
             System.out.println("0. Avsluta");
             System.out.print("Välj: ");
